@@ -12,7 +12,7 @@
 
 ### 📑 Portfolio
 - [(Swift) StopWatch](https://github.com/MojitoBar/StopWatch)
-- [(Swift) Capital](https://github.com/MojitoBar/Capital)
+- [(Swift) Capitals](https://github.com/MojitoBar/Capitals)
 <hr/>
 
 <div align=center>
