@@ -16,8 +16,6 @@
 - [(Swift) Movies](https://github.com/MojitoBar/Movies)
 <hr/>
 
-<div align=center>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MojitoBar&layout=compact)](https://github.com/MojitoBar)
- 
-</div>
+
