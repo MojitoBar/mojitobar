@@ -3,6 +3,7 @@
 ### 📚 Learning
 - <img src="https://img.shields.io/badge/Swift.js-FA7343?logo=Swift&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white"/>
+- [Algorithm]()
 
 ### 🏆 Awards and Honors
 - [SKHU-NoticeApplication - 성공회대 it경진대회 참가작](https://github.com/MojitoBar/SKHU-NoticeApplication)
