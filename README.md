@@ -5,7 +5,8 @@
 
 ### 📚 Learning
 - <img src="https://img.shields.io/badge/Swift.js-FA7343?logo=Swift&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=Android Studio&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/>
 - [Algorithm](https://github.com/MojitoBar/Learning_History/tree/master/CodingTest)
 
 ### 🏆 Awards and Honors
